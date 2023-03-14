@@ -1,0 +1,7 @@
+{
+  "name": "PrimerAppRolloSeria",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
